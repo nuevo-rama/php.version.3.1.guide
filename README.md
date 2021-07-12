@@ -7,3 +7,4 @@
 3. Strings - strings.php
 4. Variable estática - variable-estatica.php
 5. Login Form (operadores de comparación) - login-form.php
+6. Constantes propias y predefinidas - constantes.php
