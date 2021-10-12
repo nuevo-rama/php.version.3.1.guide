@@ -10,12 +10,16 @@
 <body>
 
 <?php
-    #Definir una constante
+    # Definir una constante
     define ("AUTOR", "NR");
     
-    echo AUTOR;
+    echo AUTOR . "<br>";
 
-    echo "El nombre de autor es: " . AUTOR; # El "." está concatenando
+    echo "El nombre de autor es: " . AUTOR . "<br>"; # El "." está concatenando
+    
+    # Constante predefinida
+    echo "Línea de la instrucción " . __LINE__ . "<br>";
+    echo "Línea de la instrucción " . __LINE__ . "<br>";
 
 ?>
 
