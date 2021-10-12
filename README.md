@@ -12,5 +12,5 @@ Guía de ejemplos para PHP
 |4|Variable estática|[variable-estatica.php](variable-estatica.php)|---|
 |5|Login Form (operadores de comparación)|[login-form.php](login-form.php)|---|
 |6|Constantes propias y predefinidas|[constantes.php](constantes.php)|---|
-|7|---|---|---|
+|7|Operadores matemáticos|[operadoresMatematicos.php](operadoresMatematicos.php)|---|
 |8|---|---|---|
