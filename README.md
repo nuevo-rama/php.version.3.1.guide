@@ -14,3 +14,4 @@ Guía de ejemplos para PHP
 |6|Constantes propias y predefinidas|[constantes.php](constantes.php)|---|
 |7|Operadores matemáticos|[operadoresMatematicos.php](operadoresMatematicos.php)|---|
 |8|Formulario de Operaciones Matemáticas (html)|[operacionesForm.html](operacionesForm.html)|---|
+|8|Operadores matemáticos Versión 2|[operadoresMatematicos2.php](operadoresMatematicos2.php)|---|
