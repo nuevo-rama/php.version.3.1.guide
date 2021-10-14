@@ -16,3 +16,4 @@ Guía de ejemplos para PHP
 |8|Formulario de Operaciones Matemáticas (html)|[operacionesForm.html](operacionesForm.html)|action="operadoresMatematicos2.php"|
 |9|Operadores matemáticos Versión 2|[operadoresMatematicos2.php](operadoresMatematicos2.php)|---|
 |10|Funciones matemáticas|[funcionesMatematicas.php](funcionesMatematicas.php)|---|
+|11|Condicionales|[condicionales.php](condicionales.php)|---|
