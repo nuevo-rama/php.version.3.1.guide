@@ -17,4 +17,5 @@ Guía de ejemplos para PHP
 |9|Operadores matemáticos Versión 2|[operadoresMatematicos2.php](operadoresMatematicos2.php)|---|
 |10|Funciones matemáticas|[funcionesMatematicas.php](funcionesMatematicas.php)|---|
 |11|Condicionales|[condicionales.php](condicionales.php)|if - elseif -else|
-|11|Condicionales - Operadores Ternarios|[condicionales2.php](condicionales2.php)|---|
+|12|Condicionales - Operadores Ternarios|[condicionales2.php](condicionales2.php)|---|
+|13|Condicionales - Switch Case|[condicionales3.php](condicionales3.php)|---|
