@@ -16,13 +16,13 @@ button {
     border-radius: 2px;
 }
 
-.accessAllowed {
+.allowed {
     color: green;
     text-align: center;
     
 }
 
-.accessDenied {
+.denied {
     color: red;
     text-align: center;
 }
