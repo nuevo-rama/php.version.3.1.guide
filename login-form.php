@@ -5,11 +5,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login Form</title>
-    <link rel="stylesheet" href="loginStyles.css">
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   
-    <form class="loginForm" action="" method="POST" name="user_data" id="user_data">
+    <form class="form" action="" method="POST" name="user_data" id="user_data">
         <h2>Login Validation</h2>
         <label for="user_name">Name</label>
         <input type="text" name="user_name" id="user_name">
@@ -32,9 +32,9 @@
     
 
         if($user_name== "José" && $user_age>=18) {
-            echo "<p class='accessAllowed'>Access allowed</p>";
+            echo "<p class='allowed'>Access allowed</p>";
         } else {
-            echo "<p class='accessDenied'>Access denied</p>";
+            echo "<p class='denied'>Access denied</p>";
         }
 
     }
