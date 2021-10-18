@@ -20,4 +20,5 @@ Guía de ejemplos para PHP
 |12|Condicionales - Operadores Ternarios|[condicionales2.php](condicionales2.php)|---|
 |13|Condicionales - Switch Case|[condicionales3.php](condicionales3.php)|---|
 |14|Condicionales - Switch Case|[condicionales4.php](condicionales4.php)|---|
+|15|Bucles indeterminados|[buclesIndeterminados.php](buclesIndeterminados.php)|While - Do While|
 
