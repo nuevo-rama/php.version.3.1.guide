@@ -23,4 +23,6 @@ Guía de ejemplos para PHP
 |15|Bucles indeterminados|[buclesIndeterminados.php](buclesIndeterminados.php)|while|
 |16|Bucles indeterminados|[buclesIndeterminados2.php](buclesIndeterminados2.php)|do - while|
 |16|Bucles determinados|[buclesDeterminados.php](buclesDeterminados.php)|for|
+|---|---|---|---|
+|50|Enviar Mail desde PHP|[enviarMail.php](enviarMail.php)|Sin Headers|
 
